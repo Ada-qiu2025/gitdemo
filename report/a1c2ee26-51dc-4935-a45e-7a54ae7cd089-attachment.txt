@@ -1,0 +1,11 @@
+INFO     log:base.py:35 定位元素('id', 's-top-loginbtn')
+INFO     log:base.py:98 点击按钮
+INFO     log:base.py:35 定位元素('id', 'TANGRAM__PSP_11__userName')
+INFO     log:base.py:82 输入内容为：18382411899
+INFO     log:base.py:35 定位元素('id', 'TANGRAM__PSP_11__password')
+INFO     log:base.py:82 输入内容为：baidumima
+INFO     log:base.py:35 定位元素('id', 'TANGRAM__PSP_11__isAgree')
+INFO     log:base.py:98 点击按钮
+INFO     log:base.py:35 定位元素('id', 'TANGRAM__PSP_11__submit')
+INFO     log:base.py:98 点击按钮
+INFO     log:base.py:157 当前页面标题: 百度一下，你就知道

@@ -1,0 +1,6 @@
+# user_data.yaml 示例
+user_login:  # 确保键名与代码中的引用一致
+  - username: "admin"
+    password: "Ft123456"
+  - username: "user1"
+    password: "wrong_pass"

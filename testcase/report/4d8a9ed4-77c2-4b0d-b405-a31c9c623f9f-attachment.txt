@@ -1,0 +1,7 @@
+INFO     log:base.py:107 打开网址https://wefine.cdfortis.com/e-hosp-dongying/routing/login.pg
+INFO     log:base.py:35 定位元素('id', 'userName')
+INFO     log:base.py:82 输入内容为：admin
+INFO     log:base.py:35 定位元素('id', 'passWord')
+INFO     log:base.py:82 输入内容为：Ft123456
+INFO     log:base.py:35 定位元素('id', 'onsubmit')
+INFO     log:base.py:98 点击按钮
