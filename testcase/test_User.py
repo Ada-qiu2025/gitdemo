@@ -11,7 +11,7 @@ from config.read import read_yaml
 @pytest.mark.run(order=1) #用例顺序
 class TestUser:
     @allure.title("用户登录") # 设置当前测试用例标题为"用户登录"
-    @pytest.mark.skip("跳过用例")
+    # @pytest.mark.skip("跳过用例")
     @pytest.mark.parametrize('data', read_yaml()['user_login'])
     def test_user_login(self, driver_project, data):
         username, password = str(data['username']), str(data['password'])
